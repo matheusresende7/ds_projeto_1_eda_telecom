@@ -1,6 +1,7 @@
 # Data
 DATASET_RAW = '../data/dataset_raw.csv'
 DATASET_LEAN = '../data/dataset_lean.csv'
+DATASET_DUMMIES = '../data/dataset_dummies.csv'
 
 # Reports
 EDA_0 = '../reports/eda_0.html'
