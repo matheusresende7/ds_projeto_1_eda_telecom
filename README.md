@@ -11,7 +11,7 @@ O objetivo do projeto é, a partir dos dados fornecidos pela equipe de Negócio,
 
 
 ## Descrição
-Nesse projeto de Análise de Dados foi realizada uma ampla análise exploratória gerando insights do projeto e permitindo identificar as principais causas de churn em uma telecom. Para isso foram utilizados indicadores estatísticos de histogramas, boxplots, mapa de calor e gráfico de correlações, a fim de ressaltar as principais diferenças no comportamento dos clientes que cancelam o serviço. Com base nos resultados encontrados nesse projeto, é possível fazer um grande trabalho com as demais áreas da empresa para que seja traçado um plano de ação afim de reduzir o índice de churn dos clientes.                                                                                                 |
+Nesse projeto de Análise de Dados foi realizada uma ampla análise exploratória gerando insights do projeto e permitindo identificar as principais causas de churn em uma telecom. Para isso foram utilizados indicadores estatísticos de histogramas, boxplots, mapa de calor e gráfico de correlações, a fim de ressaltar as principais diferenças no comportamento dos clientes que cancelam o serviço. Com base nos resultados encontrados nesse projeto, é possível fazer um grande trabalho com as demais áreas da empresa para que seja traçado um plano de ação afim de reduzir o índice de churn dos clientes.
 
 
 ## Bibliotecas
